@@ -151,37 +151,40 @@ I'm passionate about building high-quality, user-friendly applications through *
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omidkick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omidkick&theme=tokyonight&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omidkick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats - Total Commits, Private Repos, Icons" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omidkick&theme=tokyonight&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak Stats - Current Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidkick&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=omidkick&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidkick&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages - Excluding HTML/CSS" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omidkick&theme=tokyonight&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="GitHub Contribution Activity Graph" />
 </div>
 
 <details>
-<summary>📈 More GitHub Insights</summary>
+<summary align="center">📈 More GitHub Insights</summary>
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omidkick&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omidkick&theme=tokyonight" alt="Profile Details Card" />
 </div>
 
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidkick&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omidkick&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omidkick&theme=tokyonight&utcOffset=3.5" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidkick&theme=tokyonight" alt="Repos Per Language Card" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omidkick&theme=tokyonight" alt="Most Commit Language Card" />
+</div>
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omidkick&theme=tokyonight&utcOffset=3.5" alt="Productive Time Card" />
 </div>
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake.svg">
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 ---
 
 ## 🏆 GitHub Trophies
