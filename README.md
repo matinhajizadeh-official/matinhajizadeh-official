@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20MatinHajizadeh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=700&lines=Front-End+Engineer;React.js,+TypeScript,+Next.js;Accessible,+Performant,+Scalable;Open+to+Remote+%26+Europe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=700&lines=Front-End+Engineer;React.js,+TypeScript,+Next.js;Accessible,+Performant,+Scalable;Open+to+Remote+%26+iran" alt="Typing SVG" />
 
 
 <p align="center">
@@ -58,14 +58,15 @@ const matin = {
 
 ```
 
-### 💡 What Drives Me
+### 💡 My Motivation
 
-I believe in the power of **clean code** and **intuitive design**. Every project is an opportunity to solve problems creatively and build something that makes a difference. Whether it's debugging a tricky issue or perfecting a pixel, I'm all in.
+I'm passionate about building high-quality, user-friendly applications through **clean code** and **effective design**. I thrive on solving technical challenges and am dedicated to creating impactful digital products.
 
-> *"Let's build something meaningful—one line of code at a time."*
+> *"Building quality digital solutions, one well-crafted line of code at a time."*
 
 ---
 
+## 🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
 ### **Frontend Technologies**
@@ -78,18 +79,17 @@ I believe in the power of **clean code** and **intuitive design**. Every project
 
 ### **Styling & UI**
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### **State Management & Tools**
+![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=zustand&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### **Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Design & Version Control**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
