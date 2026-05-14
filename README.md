@@ -1,21 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Matin%20Hajizadeh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Matin%2Hajizadeh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<h3>Front-End Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Front-End+Engineer+%F0%9F%9A%80;Building+Beautiful+Interfaces+%F0%9F%8E%A8;Crafting+User+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 
-<p>Building accessible, performant, and scalable web interfaces.</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">LinkedIn</a> •
-  <a href="https://your-portfolio.com" target="_blank">Portfolio</a> •
-  <a href="mailto:your-email@gmail.com">Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matinhajizadeh" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.matinhajizadeh.ir" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://instagram.com/omidkick" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:matinhajizadeh.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matinhajizadeh-official&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/matinhajizadeh-official?tab=followers">
+    <img src="https://img.shields.io/github/followers/matinhajizadeh-official?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white" alt="Followers" />
+  </a>
+<img src="https://img.shields.io/github/stars/matinhajizadeh-official?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star&logoColor=white" alt="Total Stars" />
 
-
-</div>
-
+</p>
 
 </div>
 
