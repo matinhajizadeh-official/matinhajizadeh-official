@@ -191,7 +191,7 @@ I'm passionate about building high-quality, user-friendly applications through *
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omidkick&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=matinhajizadeh-official&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -212,29 +212,25 @@ I'm passionate about building high-quality, user-friendly applications through *
 
 ---
 
-## 🎯 Current Goals for 2025
-
-```typescript
-const goals2025 = {
-    technical: [
-        "Master TypeScript and advanced type systems",
-        "Contribute to open-source React projects",
-        "Build and launch 2 new production apps",
-        "Learn testing with Jest and React Testing Library"
-    ],
-    career: [
-        "Land a role at an innovative tech company",
-        "Collaborate with talented international teams",
-        "Mentor junior developers",
-        "Speak at a tech conference"
-    ],
-    personal: [
-        "Continue bodybuilding journey",
-        "Explore robotics and hardware integration",
-        "Write technical blog posts",
-        "Never stop learning 🚀"
-    ]
+const goals2026 = {
+  technical: [
+    "Master TypeScript and Next.js",
+    "Build 4 portfolio projects",
+    "Strengthen my frontend architecture and development workflow",
+    "Improve problem-solving through real-world project work",
+  ],
+  career: [
+    "Create a strong portfolio that showcases my skills",
+    "Grow as a frontend developer through practical experience",
+    "Work on clean, scalable, and user-focused products",
+  ],
+  personal: [
+    "Start learning English consistently",
+    "Build a sustainable learning routine",
+    "Keep improving step by step 🚀",
+  ],
 };
+
 ```
 
 ---
@@ -254,13 +250,13 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 ### 💬 Let's Chat!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omid-jabbari-link">
+  <a href="https://www.linkedin.com/in/matinhajizadeh">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:omidjabbari51@gmail.com">
+  <a href="mailto:matinhajizadeh.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.omidjabbari.ir">
+  <a href="https://www.matinhajizadeh.ir">
     <img src="https://img.shields.io/badge/Portfolio-Check_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -271,11 +267,11 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [omidjabbari51@gmail.com](mailto:omidjabbari51@gmail.com) |
-| 💼 **LinkedIn** | [omid-jabbari-link](https://linkedin.com/in/omid-jabbari-link) |
-| 🌐 **Portfolio** | [www.omidjabbari.ir](https://www.omidjabbari.ir) |
-| 📸 **Instagram** | [@omidkick](https://instagram.com/omidkick) |
-| 📱 **Phone** | +98-9155325694 |
+| 📧 **Email** | [omidjabbari51@gmail.com](mailto:matinhajizadeh.dev@gmail.com) |
+| 💼 **LinkedIn** | [omid-jabbari-link](https://linkedin.com/in/matinhajizadeh) |
+| 🌐 **Portfolio** | [www.omidjabbari.ir](https://www.matinhajizadeh.ir) |
+| 📸 **Instagram** | [@omidkick](https://instagram.com/id4you_ig) |
+| 📱 **Phone** | +98-9375712597 |
 
 <br>
 
@@ -292,7 +288,7 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 **⭐ If you like my work, consider giving my repos a star!**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=matinhajizadeh-official&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -303,6 +299,6 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<i>Built with ❤️ by Omid Jabbari | Last Updated: November 2025</i>
+<i>Built with ❤️ by matin hajizadeh | Last Updated: May 2026</i>
 
 </div>
