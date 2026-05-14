@@ -2,7 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20MatinHajizadeh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Front-End+Engineer+%F0%9F%9A%80;Building+Beautiful+Interfaces+%F0%9F%8E%A8;Crafting+User+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=700&lines=Front-End+Engineer;React.js,+TypeScript,+Next.js;Accessible,+Performant,+Scalable;Open+to+Remote+%26+Europe" alt="Typing SVG" />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matinhajizadeh" target="_blank">
