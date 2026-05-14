@@ -37,25 +37,22 @@
 
 ```javascript
 const matin = {
-    location: "Mashhad, Iran 🇮🇷",
-    role: "Junior Front-End Developer",
+    location: "Iran",
+    role: "Front-End Engineer",
     expertise: ["React.js", "TypeScript", "Next.js", "JavaScript (ES6+)"],
     currentFocus: "Developing responsive, accessible, and performant web applications.",
     learningAndGrowth: [
         "Advanced React",
         "TypeScript for robust applications",
         "Next.js",
-        "State Management (Zustand, redux toolkit)",
+        "State Management (Zustand, Redux Toolkit)",
         "Clean Code & Best Practices"
     ],
     passion: ["Modern UI/UX Design", "Efficient Problem-Solving", "Collaborative Development"],
-    // Optional: Add unique interests if they show problem-solving skills
-    // uniqueInterests: ["Robotics 🤖", "Learning new technologies"],
     
     story: () => {
-        return "My journey into front-end development started with a fascination for creating seamless digital interactions. " +
-               "Driven by a passion for modern technologies like React.js, TypeScript, and Next.js, I aim to build high-quality, user-centric web applications. " +
-               "I am actively seeking a challenging Junior Front-End Developer role at a leading Iranian tech company where I can contribute to impactful projects and grow my skills.";
+  return "My journey into front-end development started with a fascination for creating seamless digital interactions. Driven by a passion for modern technologies like React.js, TypeScript, and Next.js, I aim to build high-quality, user-centric web applications. I am actively seeking a challenging Junior Front-End Developer role at a leading Iranian tech company where I can contribute to impactful projects and grow my skills.";
+
     }
 };
 
